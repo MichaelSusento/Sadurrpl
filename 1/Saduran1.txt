@@ -1,9 +1,0 @@
-Nim: 1811500012
-Nama: Michael Susento
-Kelompok: TI6A
-
-Hasil Sata Menyadur:
-1).Ada Tugas  Menyadur Tiap pertemuan dan di simpan di github
-2). Buat Kelompok presentasi sebanyak 3 orang mahasiswa 1 Kelompok
-3). Perkuliakan Pertemuan Pertama Dimulai Jam 9, Karena Pak Yohanes sedang Tugas di Smk Bakti sebagai Pengawas ujian praktek Editing Video
-
