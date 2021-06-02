@@ -1,3 +1,3 @@
-Nim: 1811500012<br>
-Nama: Michael Susento<br>
-Kelompok: TI6A<br>
+NIM     : 1811500012
+Nama    : Michael Susento
+Kelompok: TI6A
